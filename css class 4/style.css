@@ -1,0 +1,48 @@
+#we {
+
+    padding: 2%;
+
+}
+
+#a {
+
+    text-shadow: 1px -2px 2px #000fff;
+    padding: 2%;
+
+}
+
+#b {
+
+    padding: 2%;
+    border: 2px solid;
+    background: #04df29;
+    text-transform: capitalize;
+    text-shadow: 2px 2px 2px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#three::first-letter {
+
+    font-size: 250%;
+    font-weight: bold;
+}
+
+a:link {
+
+    text-decoration: none;
+
+}
+
+a:hover {
+
+    color: rgb(202, 209, 209);
+    background-color: blueviolet;
+
+}
+
+input.submit:active {
+
+    color: darkcyan;
+    background: #000;
+    
+}
