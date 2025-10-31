@@ -1,0 +1,60 @@
+.main{
+
+background: black;
+height: 200px;
+padding: 5px;
+display: flex;
+
+justify-content: space-evenly;
+align-items: center;
+
+
+/* flex-direction: row; */
+/* width: 130px; */
+/* flex-direction: row-reverse; */
+/* justify-content: ; */
+/* justify-content: center; */
+/* justify-content: space-evenly; */
+/* justify-content: space-around; */
+/* align-items: flex-start; */
+/* align-items: center; */
+
+
+
+
+
+
+}
+
+.one{
+
+background-color: aqua;
+order: 0;
+
+}
+
+.two{
+
+background-color:rgb(79, 79, 198);
+order: -1;
+
+}
+
+.three{
+
+background-color:rgb(242, 19, 153);
+order: 1;
+
+}
+
+.four{
+
+background-color:rgb(11, 230, 131);
+
+}
+
+.five{
+
+background-color:rgb(203, 60, 12);
+
+}

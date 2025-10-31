@@ -27,11 +27,6 @@
     font-weight: bold;
 }
 
-a:link {
-
-    text-decoration: none;
-
-}
 
 a:hover {
 
@@ -44,5 +39,16 @@ input.submit:active {
 
     color: darkcyan;
     background: #000;
-    
+
 }
+
+
+
+
+
+
+
+
+
+
+

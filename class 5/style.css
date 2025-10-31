@@ -1,0 +1,43 @@
+.a {
+
+    font-size: 70px;
+    padding: 10px;
+}
+
+.abc:focus {
+
+    background-color: blue;
+    color: aqua;
+
+}
+
+.xyz:active {
+
+    background-color: blue;
+    color: aqua;
+}
+
+
+.b{
+
+min-width: 800px;
+max-width: 100px;
+background-color: antiquewhite;
+
+}
+
+.d {
+
+    width: 700px;
+    background-color: aqua;
+    height: ;
+    overflow: visible;
+}
+
+.e {
+height: 50px;
+    width: 100px;
+    background-color: rgb(176, 7, 243);
+    overflow: scroll;
+
+}
